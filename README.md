@@ -1,4 +1,9 @@
 ### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Airlangga Maulana Anwar**.
+
+Saya seorang mahasiswa **Institut Teknologi Telkom Purwokerto**.
 
 <!--
 **anggaaa7/anggaaa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
